@@ -1,3 +1,5 @@
+### [Demo](https://jaspalsingh1998.github.io/clock/)
+
 ## About
 
 This application is made out of vanilla JS and HTML CSS for structure and styling.
